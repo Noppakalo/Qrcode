@@ -26,8 +26,8 @@
 
 ### Links
 
--   Solution URL: [https://noppakalo.github.io/qrcode-component/](https://noppakalo.github.io/qrcode-component/)
--   Live Site URL: [https://noppakalo.github.io/qrcode-component/](https://noppakalo.github.io/qrcode-component/)
+-   Solution URL: [https://noppakalo.github.io/qrcode-component/](https://noppakalo.github.io/qrcode)
+-   Live Site URL: [https://noppakalo.github.io/qrcode-component/](https://noppakalo.github.io/qrcode)
 
 ## My process
 
