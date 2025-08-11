@@ -18,11 +18,11 @@
 
 #### Desktop
 
-![Desktop Screenshot](./screenshot/qr-code-desktop.png)
+![Desktop Screenshot](./qr-code-desktop.png)
 
 #### Mobile
 
-![Mobile Screenshot](./screenshot/qr-code-mobile.png)
+![Mobile Screenshot](./qr-code-mobile.png)
 
 ### Links
 
